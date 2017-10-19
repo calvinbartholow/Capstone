@@ -1,0 +1,2 @@
+class StateBill < ApplicationRecord
+end

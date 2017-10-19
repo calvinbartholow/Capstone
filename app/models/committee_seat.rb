@@ -1,0 +1,2 @@
+class CommitteeSeat < ApplicationRecord
+end

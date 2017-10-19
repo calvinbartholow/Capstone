@@ -1,0 +1,2 @@
+class StateCongressRepresentativesController < ApplicationController
+end

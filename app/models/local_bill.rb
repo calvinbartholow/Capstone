@@ -1,0 +1,2 @@
+class LocalBill < ApplicationRecord
+end

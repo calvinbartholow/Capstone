@@ -1,0 +1,2 @@
+class StateCongressRepresentative < ApplicationRecord
+end

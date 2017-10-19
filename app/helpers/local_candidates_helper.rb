@@ -1,0 +1,2 @@
+module LocalCandidatesHelper
+end
